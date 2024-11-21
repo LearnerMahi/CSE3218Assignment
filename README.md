@@ -11,3 +11,6 @@ A simple and interactive BMI (Body Mass Index) calculator built using **SwiftUI*
   - Displays BMI category (Underweight, Normal, Overweight, Obese).
   - Suggests weight gain or loss for optimal BMI.
 - **Reset Option**: Quickly restart and input new values.
+
+## 📱 Screenshots (Optional)
+![Placeholder](._Screenshot%202024-11-07%20at%2012.47.33%20PM.png)
