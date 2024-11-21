@@ -14,5 +14,5 @@ A simple and interactive BMI (Body Mass Index) calculator built using **SwiftUI*
 
 
 ## 📱 Screenshot
-![BMI Calculator Screenshot](https://github.com/LearnerMahi/CSE3218Assignment/blob/main/Screenshot%202024-11-07%20at%2012.47.33%20PM.png?raw=true)
-
+![1](https://github.com/LearnerMahi/CSE3218Assignment/blob/main/Screenshot%202024-11-07%20at%2012.47.33%20PM.png?raw=true)
+![2](https://github.com/LearnerMahi/CSE3218Assignment/blob/main/._Screenshot%202024-11-07%20at%2012.48.42%20PM.png?raw=true)
