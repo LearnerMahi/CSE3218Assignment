@@ -12,5 +12,7 @@ A simple and interactive BMI (Body Mass Index) calculator built using **SwiftUI*
   - Suggests weight gain or loss for optimal BMI.
 - **Reset Option**: Quickly restart and input new values.
 
-## 📱 Screenshots
-![Screenshots](Screenshot 2024-11-07 at 12.47.33 PM.png)
+
+## 📱 Screenshot
+![BMI Calculator Screenshot](https://github.com/LearnerMahi/CSE3218Assignment/blob/main/Screenshot%202024-11-07%20at%2012.47.33%20PM.png?raw=true)
+
