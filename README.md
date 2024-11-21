@@ -22,3 +22,16 @@ A simple and interactive BMI (Body Mass Index) calculator built using **SwiftUI*
 <img width="291" alt="Screenshot 2024-11-07 at 12 48 02 PM" src="https://github.com/user-attachments/assets/fa633c5d-dd0c-4815-b354-5440fe88aeb1">
 
 ![_Screenshot 2024-11-07 at 12 47 33 PM (1)](https://github.com/user-attachments/assets/500e9f5a-753e-4096-85ef-7db39a8d8535)
+
+## 🛠️ Tech Stack
+- **SwiftUI**: For designing the user interface.
+- **Swift Programming Language**: For implementing logic.
+
+---
+
+## 🚀 How to Run
+Since this app was developed on **Xcode** (only available on macOS), you’ll need a Mac to run it. Here's how you can set it up:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/LearnerMahi/CSE3218Assignment.git
