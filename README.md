@@ -1,3 +1,6 @@
+# Name: Ahnaf Rais Mahi  
+# Roll: 2007054
+
 # BMI Calculator 🏋️‍♂️
 
 A simple and interactive BMI (Body Mass Index) calculator built using **SwiftUI**. This app allows users to calculate their BMI and get categorized based on their health status.
